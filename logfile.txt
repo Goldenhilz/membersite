@@ -1,0 +1,6 @@
+
+Full path to this dir: /home/backcou2/public_html/dev1/demo/membersite
+
+Full path up one dir: /home/backcou2/public_html/dev1/demo
+
+>>>once_dayly.php completed<<<<   Thursday 11th of December 2014 01:07:44 AM

@@ -1,0 +1,138 @@
+body {
+	background-color: #D0D9DB;
+	font-family: "arial";
+	font-size: 20px;
+	margin: auto;
+	/*max-width: 960px;*/
+}
+
+.logo {
+	color: #fff;
+}
+
+#signup-login-box, #logout-box {
+	padding-right: 30px;
+}
+
+#main-contents {
+	background-color: #FDF7E6;
+	padding: 20px;
+}
+
+.form-container {
+	padding-left: 40px;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+#login li.link {
+	margin-top: 5px;
+}
+
+
+.button {
+	border-radius: 5px;
+}
+
+button:hover {
+	color: #71ACF4;
+}
+
+#status {
+	color: #B71A1E;
+	padding-left: 20px;
+	font-size: 20px;
+	display: inline;
+}
+
+.status {
+	color: #B71A1E;
+	padding-left: 20px;
+	font-size: 20px;
+	display: inline;
+}
+
+#unamestatus {
+	color: #B71A1E;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+#error-msg {
+	color: #B71A1E;
+	font-size: 20px;
+}
+
+#forgotpassform {
+	margin-top:24px;	
+}
+
+#forgotpassform > div {
+	margin-top: 12px;	
+}
+
+#forgotpassform > input {
+	width: 250px;
+	padding: 3px;
+	/*background: #F3F9DD;*/
+}
+
+#forgotpassbtn {
+	font-size:15px;
+	padding: 10px;
+}
+
+input[type="text"], .tt-input {
+	padding: 5px 10px;
+	border: 1px solid #bbb;
+	background-color: ##F2CEFB;
+}
+
+.tt-input:focus {
+	outline: none;
+}
+
+.tt-dropdown-menu {
+	width:calc(100% - 2px);
+	border:1px solid #bbb;
+	background-color: #fff;
+	padding: 0;
+}
+
+.tt-suggestion {
+	padding: 5px 10px;
+	margin: 0;
+	cursor: pointer;
+}
+
+.tt-suggestion p {
+	margin: 5px 0;
+}
+
+.tt-suggestion.tt-cursor {
+	background-color: #ddd;
+}
+
+.tt-hint {
+	color: #F08073;
+}
+
+#editprofileform{
+margin-top:24px;	
+}
+
+#editprofileform > div {
+margin-top: 12px;	
+}
+
+#editprofileform > input,select {
+width: 200px;
+padding: 3px;
+background: #F3F9DD;
+}
+
+#gender {
+	width: 100px;
+}
